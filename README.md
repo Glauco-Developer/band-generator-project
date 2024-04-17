@@ -2,6 +2,8 @@
 
 This project is a band generator that helps you create random band names. It utilizes Node.js and Express framework to provide a simple web interface for generating band names.
 
+This project was created as part of Section 25 (EJS) of "The Complete 2024 Web Development Bootcamp (Dr. Angela Yu)." It is designed to apply and showcase the skills learned in using Embedded JavaScript Templates (EJS) to build dynamic web applications efficiently.
+
 ## Functionality
 
 The band generator project provides the following functionality:
