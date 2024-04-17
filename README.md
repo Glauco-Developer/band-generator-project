@@ -13,7 +13,7 @@ The band generator project provides the following functionality:
 
 To install and run the band generator project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/band-generator-project.git`
+1. Clone the repository: `git clone https://github.com/Glauco-Developer/band-generator-project`
 2. Navigate to the project directory: `cd band-generator-project`
 3. Install dependencies: `npm install`
 4. Start the server: `npm start`
